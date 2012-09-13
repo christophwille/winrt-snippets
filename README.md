@@ -8,4 +8,4 @@ This sample can be used as the basis for a font picker / chooser inside eg a fly
 
 Screenshot
 
-![In Action](https://github.com/christophwille/winrt-snippets/master/listfonts.png)
+![In Action](https://raw.github.com/christophwille/winrt-snippets/master/listfonts.png)

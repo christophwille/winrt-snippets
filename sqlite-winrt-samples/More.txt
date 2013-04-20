@@ -1,0 +1,20 @@
+Sync Options
+
+http://blogs.msdn.com/b/mim/archive/2013/02/19/synchronization-with-sqlite-on-winrt.aspx
+https://syncwinrt.codeplex.com/
+
+http://jtabadero.wordpress.com/2013/01/09/synchronizing-winrtsqlite-using-sync-framework-toolkit/
+
+http://zumero.com/
+
+
+Tools
+
+http://www.yunqa.de/delphi/doku.php/products/sqlitespy/index
+
+
+JS WinRT
+
+https://github.com/doo/SQLite3-WinRT (JavaScript)
+
+

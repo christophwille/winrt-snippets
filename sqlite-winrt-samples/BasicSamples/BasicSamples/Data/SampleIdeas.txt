@@ -1,0 +1,3 @@
+﻿
+Binary - Storing / Retrieving Images (don't think the concept is a good idea, disk would be better)
+

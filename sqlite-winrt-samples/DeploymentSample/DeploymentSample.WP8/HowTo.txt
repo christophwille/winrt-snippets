@@ -1,0 +1,1 @@
+﻿http://blogs.windows.com/windows_phone/b/wpdev/archive/2013/03/12/using-the-sqlite-database-engine-with-windows-phone-8-apps.aspx

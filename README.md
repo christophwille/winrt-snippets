@@ -1,3 +1,14 @@
+SQLite Samples
+======================
+SQLite samples going beyond querying and CRUD:
+
+* Joins
+* Foreign keys
+* Transactions
+* Master database
+* Deployment of pre-created database to Windows 8 and Windows Phone 8
+
+
 Enumerate Fonts in WinRT
 ======================
 This [forum post](http://social.msdn.microsoft.com/Forums/en-GB/winappswithcsharp/thread/720419d2-9254-4b89-a32f-08345d5260c6) hints that 

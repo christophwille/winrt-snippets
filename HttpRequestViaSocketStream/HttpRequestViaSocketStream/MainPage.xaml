@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="HttpRequestViaSocketStream.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HttpRequestViaSocketStream"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        
+        <Button x:Name="DoTheDemo" Content="Run the demo" HorizontalAlignment="Left" Margin="100,100,0,0" VerticalAlignment="Top" Click="DoTheDemo_Click"/>
+        <TextBox x:Name="Output" HorizontalAlignment="Left" Height="560" Margin="100,150,0,0" TextWrapping="Wrap" 
+                 Text="" VerticalAlignment="Top" Width="1100"/>
+
+    </Grid>
+</Page>

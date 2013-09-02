@@ -31,6 +31,13 @@ XAML Image control (using a neat random access memory stream as the basis for th
 The solution is based on ASP.NET code from a StackOverflow question (see link in the codebase). It tries to deviate as 
 little from the original as possible.
 
+Http Request via SocketStream
+===========================
+The code works on Windows Phone 8 and Windows 8 (uses identical WinRT API).
+
+It shows how to use SocketStream to perform an HTTP GET request.
+
+
 "Add New Item" item in GridView / ListView
 =========================
 ![In Action](https://raw.github.com/christophwille/winrt-snippets/master/gridviewaddnewitem.png)
